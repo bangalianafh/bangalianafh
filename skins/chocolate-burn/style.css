@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+a, .blog-post:hover .post-meta .comments span.icon-comment, .blog-post:hover .post-meta .comments, .blog-post-single:hover .post-meta .comments span.icon-comment, .blog-post-single:hover .post-meta .comments, .blog-post:hover .entry-details h2 a, .portfolio:hover .portfolio-detail h4 a, .portfolio .image-overlay a span, .border-title, .check li:before,  .tweet p a:hover, .blog-post-single .entry-details .entry-meta a:hover, .commententries h4, #respond h3, ul.commentlist li .author-name a:hover, ul.commentlist li .reply a:hover, #secondary .widget ul li a:hover, .widget h3.widgettitle, .clients-nav a:hover, .portfolio-single-entry .tags a:hover { color:#84b2a2; }
+
+/*.border-title { color:#eb6841; }
+.border-title span { background:#eb6841; }*/
+
+#main-menu ul a { color:#ffffff; }
+
+.intro-text.type1 { border-left:5px solid #d3643b; }
+
+#header { border-color:#d3643b; background:#403b33; }
+
+.button, .blog-post:hover .post-meta .date, .blog-post:hover footer a, .blog-post-single:hover .post-meta .date, .blog-post-single:hover footer a .sorting-container a:hover, .sorting-container a.active-sort, .team:hover .social-icon li a { color:#ffffff; }
+.location iframe { border-color:#84b2a2; }
+
+.button, input[type="submit"], button, input[type="button"] { text-shadow:1px 1px 0px #c15127; border-left:1px solid #b75633; border-top:1px solid #b75633;  background:#d3643b; background:#d3643b\0/; *background:#d3643b; color:#ffffff;  }
+
+.border-title span, .widget h3.widgettitle span, .blog-post:hover .post-meta .date, .blog-post-single:hover .post-meta .date, .blog-post:hover footer, .sorting-container a:hover, .sorting-container a.active-sort, .toggle-frame h5.toggle-accordion.active, .toggle-frame h5.toggle.active, .location h4.map-title, .button:hover, ul.tabs-frame li a.current, .tweet-nav a.prev:hover, .tweet-nav a.next:hover, .mean-container a.meanmenu-reveal, .mean-container .mean-nav, #magic-line-two, .ico-content .icon span, .ajax-portfolio .ajax_close:hover { background:#84b2a2; background:#84b2a2\0/ ; *background:#84b2a2; }
+
+ul.tabs-frame { border-bottom-color:#5b8878; }
+
+.button:hover { background:#84b2a2; border-color:#729a8c; text-shadow:1px 1px 0 #4e695f; color:#ffffff; }
+.button.ico i { color:#ffffff; }
+.button.ico i:after { background: #b25330; border-right: 1px solid #dd6c42; }
+.button.ico:hover i:after { border-right-color:#91c2b1; background:#6e9789; }
+
+.main-title { background:#d3643b; box-shadow:0 -7px 6px #be5a35 inset; }
+
+.blog-arrows a:hover { background:#d3643b; }
+
+.testimonial-wrapper figure.testimonial-thumb > .item-mask { background:url(images/hexa-bg.png) center center no-repeat; }
+.parallax-section {  border-top-color:#d3643b; }
+.tweet p a, .tweet p i  { color:#35aad8; }
+.tweet-nav a.prev, .tweet-nav a.next { background:#d3643b; color:#1f1f29; }
+
+.testimonial-wrapper .nav-numbers li a:hover { background:#7F7774; }
+.testimonial-wrapper .nav-numbers li.active a { background:#84b2a2; }
+
+/*----*****---- << Pricing Table >> ----*****----*/
+.pr-tb-col:hover .tb-content li, .pr-tb-col.active .tb-content li { color:#666666; }
+
+.pr-tb-col:hover:after, .pr-tb-col.active:after {  border:5px solid #84b2a2; }
+
+.tb-header .price { color:#84b2a2; }
+
+.pr-tb-col:hover, .pr-tb-col.active {  background:#94c7b6; }
+.pr-tb-col:hover .tb-content li, .pr-tb-col:hover, .pr-tb-col.active .tb-content li, .pr-tb-col.active { border-color: #84b2a2; }
+.pr-tb-col:hover .tb-content li, .pr-tb-col.active .tb-content li{ border-color: #84b2a2; }
+
+/*----*****---- << Portfolio >> ----*****----*/
+.portfolio .portfolio-thumb { border-top:5px solid #84b2a2; }
+.image-overlay { background:#84b2a2; background:rgba(132, 178, 162, 0.9); }
+.sorting-container a:hover, .sorting-container a.active-sort { border-bottom-color:#5b8878; color:#ffffff; }
+.portfolio:hover .image-overlay a span:hover { color:#e08e79; }
+
+/*----*****---- << Team >> ----*****----*/
+.team:hover { border-color:#84b2a2; }
+.team:hover .social-icon { background:#84b2a2; }
+
+/*----*****---- << Footer >> ----*****----*/
+.copyright { background:#403b33; border-color:#262420; }
+
+.support-info span { color:#d3643b; }
+
+.toggle-frame h5.toggle-accordion.active a, .toggle-frame h5.toggle.active { border-color:#5b8878; }
